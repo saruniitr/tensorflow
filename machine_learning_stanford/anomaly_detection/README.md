@@ -17,17 +17,17 @@ Dataset1 is a simpler dataset with only two features which is helpful for data v
 ![Dataset with Anomalies marked](https://github.com/saruniitr/tensorflow/blob/master/machine_learning_stanford/anomaly_detection/dataset1_with_anomalies.png)
 
 * Metrics
-No. of features: 2
-No. of Examples in Training set: 307
-No. of Examples in Cross Validation set: 307
-Best Epsilon: 8.990853e-05, ** F1 Score: 0.8750**
-No. of Outliers: ** 6 **
-
+<br>No. of features: 2
+<br>No. of Examples in Training set: 307
+<br>No. of Examples in Cross Validation set: 307
+<br>Best Epsilon: 8.990853e-05, F1 Score: 0.8750
+<br>No. of Outliers: 6
+<br>
 Dataset2 is a more realistic dataset with more features. In this case we only determine the outliers as we cannot plot higher dimensions.
 
 * Metrics 
-No. of features: 11
-No. of Examples in Training set: 1000
-No. of Examples in Cross Validation set: 100
-Best Epsilon: 1.377229e-18, ** F1 Score: 0.6154 **
-No. of Outliers: ** 117 **
+<br>No. of features: 11
+<br>No. of Examples in Training set: 1000
+<br>No. of Examples in Cross Validation set: 100
+<br>Best Epsilon: 1.377229e-18, F1 Score: 0.6154
+<br>No. of Outliers: 117
